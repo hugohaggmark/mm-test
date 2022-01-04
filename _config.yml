@@ -84,8 +84,9 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -94,6 +95,11 @@ defaults:
       layout: single
       author_profile: true
 
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
+    
 category_archive:
   type: liquid
   path: /categories/
