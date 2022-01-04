@@ -104,7 +104,13 @@ comments:
     discussion_term      : "pathname"
     reactions_enabled    : "1"
     theme                : "dark_dimmed"
-    
+
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-18780240-3"
+    anonymize_ip: true
+
 category_archive:
   type: liquid
   path: /categories/
