@@ -19,6 +19,7 @@ subtitle: "Sagas from the software trenches in the continuing battle between qua
 email: hugo.haggmark+webcontact@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sagas from the software trenches in the continuing battle between quality, price and time…
+repository: "hugohaggmark/hugohaggmark.github.io"
 minimal_mistakes_skin: dark
 search: true
 
