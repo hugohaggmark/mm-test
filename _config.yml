@@ -67,6 +67,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hugohaggmark"
+    - label: "Experience"
+      icon: "fab fa-fw fa-list"
+      url: "https://www.hugohaggmark.com/experience/"      
 
 footer:
   links:
